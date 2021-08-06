@@ -5,7 +5,6 @@ import {useEffect, useState} from 'react';
 import { Container, Switch, withStyles } from '@material-ui/core';
 import Header from './Components/Header/Header';
 import Definitions from './Components/Header/Definitions/Definitions';
-import { getSuggestedQuery } from '@testing-library/react';
 import { grey } from '@material-ui/core/colors';
 
 function App() {
